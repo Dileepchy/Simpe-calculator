@@ -16,9 +16,11 @@ body{
     color: #2cd8db;
 }
 
+
 .container{
-    top: 50px;
-    left: 50px;
+    
+    top: 150px;
+    left: 100px;
     position: absolute;
     margin: 0 auto;
     width: 256px;
